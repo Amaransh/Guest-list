@@ -2,12 +2,16 @@
 {
 	margin-top: 20px; 
 	margin-bottom: 20px; 
+	color: rgb(255, 0, 0);
+	background-color: aqua;
 }
 #sort_button
 {
 	display: none;
 	margin-top: 20px; 
-	margin-bottom: 20px; 
+	margin-bottom: 20px;
+	color: rgb(255, 0, 0);
+	background-color: aqua; 
 }
 
 input
